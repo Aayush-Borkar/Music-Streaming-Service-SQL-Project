@@ -1,7 +1,8 @@
 🎵 Music Streaming Service Database
 📌 Overview
-This project is a SQL-based database designed to simulate a music streaming platform like Spotify or Apple Music.
-It contains Users, Artists, Songs, Playlists, and PlaylistSongs tables, along with sample data and queries to generate insights.
+This project is a SQL-based database designed to simulate a music streaming platform
+like Spotify or Apple Music.It contains Users, Artists, Songs, Playlists, and PlaylistSongs 
+tables, along with sample data and queries to generate insights.
 
 🗂 Database Schema
 The database includes:
